@@ -1,0 +1,296 @@
+.container{
+    display: flex;
+    background-color: azure;
+    height: 50px;
+    width: 400px;
+   color: antiquewhite;
+    
+ 
+}
+
+.tipo{
+   display: flex;
+   background-color: aquamarine;
+   color: blue;
+   height: 50px;
+   width: 100px;
+    justify-content: center;
+   justify-items: center;
+
+
+}
+
+.origen{
+    display: flex;
+    background-color: rgb(255, 230, 0);
+    color: rgb(255, 0, 13);
+    height: 50px;
+    width: 100px;
+     justify-content: center;
+   justify-items: center;
+ 
+ 
+ }
+
+ .precio{
+    display: flex;
+    background-color: rgb(255, 0, 174);
+    color: rgb(0, 255, 170);
+    height: 50px;
+    width: 100px;
+     justify-content: center;
+   justify-items: center;
+ 
+ 
+ }
+
+ .stock{
+    display: flex;
+    background-color: rgb(157, 127, 255);
+    color: rgb(43, 255, 0);
+    height: 50px;
+    width: 100px;
+     justify-content: center;
+   justify-items: center;
+ 
+ 
+ }
+
+ .container2{
+     display: flex;
+     background-color: azure;
+    height: 50px;
+    width: 400px;
+   color: antiquewhite;
+    
+
+
+
+ }
+ 
+.tipo2{
+    display: flex;
+    background-color: aquamarine;
+    color: blue;
+    height: 50px;
+    width: 100px;
+    justify-items: center;
+ 
+ 
+ }
+ 
+ .origen2{
+     display: flex;
+     background-color: rgb(255, 230, 0);
+     color: rgb(255, 0, 13);
+     height: 50px;
+     width: 100px;
+     justify-items: center;
+  
+  
+  }
+ 
+  .precio2{
+     display: flex;
+     background-color: rgb(255, 0, 174);
+     color: rgb(0, 255, 170);
+     height: 50px;
+     width: 100px;
+     justify-items: center;
+  
+  
+  }
+ 
+  .stock2{
+     display: flex;
+     background-color: rgb(157, 127, 255);
+     color: rgb(43, 255, 0);
+     height: 50px;
+     width: 100px;
+     justify-items: center;
+  
+  
+  }
+
+  
+ .container3{
+    display: flex;
+    background-color: azure;
+   height: 50px;
+   width: 400px;
+  color: antiquewhite;
+   
+
+
+
+}
+
+.tipo3{
+   display: flex;
+   background-color: aquamarine;
+   color: blue;
+   height: 50px;
+   width: 100px;
+   justify-items: center;
+
+
+}
+
+.origen3{
+    display: flex;
+    background-color: rgb(255, 230, 0);
+    color: rgb(255, 0, 13);
+    height: 50px;
+    width: 100px;
+    justify-items: center;
+ 
+ 
+ }
+
+ .precio3{
+    display: flex;
+    background-color: rgb(255, 0, 174);
+    color: rgb(0, 255, 170);
+    height: 50px;
+    width: 100px;
+    justify-items: center;
+ 
+ 
+ }
+
+ .stock3{
+    display: flex;
+    background-color: rgb(157, 127, 255);
+    color: rgb(43, 255, 0);
+    height: 50px;
+    width: 100px;
+    justify-items: center;
+ 
+ 
+ }
+
+
+ .container4{
+    display: flex;
+    background-color: azure;
+   height: 50px;
+   width: 400px;
+  color: antiquewhite;
+   justify-content: center;
+   justify-items: center;
+
+
+}
+
+.tipo4{
+   display: flex;
+   background-color: aquamarine;
+   color: blue;
+   height: 50px;
+   width: 100px;
+   justify-items: center;
+   justify-content: center;
+
+}
+
+.origen4{
+    display: flex;
+    background-color: rgb(255, 230, 0);
+    color: rgb(255, 0, 13);
+    height: 50px;
+    width: 100px;
+    justify-items: center;
+    justify-content: center;
+ 
+ }
+
+ .precio4{
+    display: flex;
+    background-color: rgb(255, 0, 174);
+    color: rgb(0, 255, 170);
+    height: 50px;
+    width: 100px;
+    justify-items: center;
+    justify-content: center;
+ 
+ }
+
+ .stock4{
+    display: flex;
+    background-color: rgb(157, 127, 255);
+    color: rgb(43, 255, 0);
+    height: 50px;
+    width: 100px;
+    justify-items: center;
+    justify-content: center;
+ 
+ }
+
+ .container5{
+    display: flex;
+    background-color: azure;
+   height: 50px;
+   width: 400px;
+  color: antiquewhite;
+      justify-content: center;
+   justify-items: center;
+   
+
+
+
+}
+
+.tipo5{
+   display: flex;
+   background-color: aquamarine;
+   color: blue;
+   height: 50px;
+   width: 100px; justify-content: center;
+   justify-items: center;
+
+
+}
+
+.origen5{
+    display: flex;
+    background-color: rgb(255, 230, 0);
+    color: rgb(255, 0, 13);
+    height: 50px;
+    width: 100px; justify-content: center;
+   justify-items: center;
+ 
+ 
+ }
+
+ .precio5{
+    display: flex;
+    background-color: rgb(255, 0, 174);
+    color: rgb(0, 255, 170);
+    height: 50px;
+    width: 100px; justify-content: center;
+   justify-items: center;
+ 
+ 
+ }
+
+ .stock5{
+    display: flex;
+    background-color: rgb(157, 127, 255);
+    color: rgb(43, 255, 0);
+    height: 50px;
+    width: 100px; justify-content: center;
+   justify-items: center;
+ 
+ 
+ }
+
+
+ .container-supremo{
+         
+         background-color: black;
+         
+
+
+ }
+
+
